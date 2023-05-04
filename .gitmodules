@@ -4,3 +4,6 @@
 [submodule "engagement-platform-cms"]
 	path = engagement-platform-cms
 	url = git@github.com:digital-land/engagement-platform-cms.git
+[submodule "validators"]
+	path = validators
+	url = git@github.com:digital-land/validators.git
