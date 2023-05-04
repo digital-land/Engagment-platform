@@ -1,5 +1,5 @@
 [submodule "engagment-platform-webapp"]
-	path = engagment-platform-webapp
+	path = engagement-platform-webapp
 	url = git@github.com:digital-land/engagment-platform-webapp.git
 [submodule "engagement-platform-cms"]
 	path = engagement-platform-cms
